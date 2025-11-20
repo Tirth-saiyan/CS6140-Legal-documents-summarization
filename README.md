@@ -367,9 +367,9 @@ This project builds upon several key research areas:
 
 ## 👥 Authors
 
-**Tirth Desai**
-**Aditya Shah**
-**Zenil Patel**
+1. **Tirth Desai**
+2. **Aditya Shah**
+3. **Zenil Patel**
 ---
 
 <div align="center">
